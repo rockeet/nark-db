@@ -1,2 +1,2 @@
 # terark-db
-We have moved to [terarkdb](https://github.com/Terark/terarkdb)
+We have moved to [terichdb](https://github.com/Terark/terichdb)
